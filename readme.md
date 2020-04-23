@@ -3,7 +3,9 @@
 Since I am not really good remembering font weights by the numbers, and to be honest, even though it wasn't the problem, humane names are better in my opinion.
 Also, humane names are better when in communication.
 
-![screen showing chats](media/chat.png)
+<p align="center">
+<img src="media/chat.png"/>
+</p>
 
 ## Usage
 
