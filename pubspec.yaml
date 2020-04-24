@@ -1,7 +1,7 @@
 name: typeweight
 description: A more readable font weights for flutter/material.
 version: 0.0.1
-author: Frenco Jobs <frenco.willian@gmail.com>
+homepage: https://github.com/frencojobs/typeweight
 
 environment:
   sdk: ">=2.5.0 <3.0.0"
