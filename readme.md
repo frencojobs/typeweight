@@ -4,7 +4,7 @@ Since I am not really good remembering font weights by the numbers, and to be ho
 Also, humane names are better when in communication.
 
 <p align="center">
-<img src="media/chat.png"/>
+<img src="https://i.imgur.com/xLtSedn.png"/>
 </p>
 
 ## Usage
