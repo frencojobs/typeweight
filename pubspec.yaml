@@ -1,6 +1,6 @@
 name: typeweight
-description: A more readable font weights for flutter/material.
-version: 0.0.2
+description: Flutter plugin to help you to use more readable/clear font weight definitions.
+version: 1.0.0
 homepage: https://github.com/frencojobs/typeweight
 
 environment:
