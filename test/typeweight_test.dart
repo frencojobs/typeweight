@@ -1,5 +1,6 @@
+import 'dart:ui' show FontWeight;
+
 import 'package:test/test.dart';
-import 'package:flutter/material.dart';
 import 'package:typeweight/typeweight.dart';
 
 void main() {
