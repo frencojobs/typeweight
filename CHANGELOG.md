@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Remove material dependency and use `dart:ui` instead
+
 ## 2.0.0
 
 - Migrate to null safety
