@@ -1,11 +1,6 @@
 # TypeWeight
 
-Since I am not really good remembering font weights by the numbers, and to be honest, even though it wasn't the problem, humane names are better in my opinion.
-Also, humane names are better when in communication.
-
-<p align="center">
-<img src="https://i.imgur.com/xLtSedn.png"/>
-</p>
+Use more readable font weight definitions in Flutter.
 
 ## Usage
 
@@ -38,7 +33,3 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-
-## License
-
-MIT &copy; Frenco Jobs
