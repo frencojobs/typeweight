@@ -1,3 +1,8 @@
+## 2.0.2
+
+- Update sdk and dependencies to the most recent ones
+- Update example for new bindings
+
 ## 2.0.1
 
 - Remove material dependency and use `dart:ui` instead

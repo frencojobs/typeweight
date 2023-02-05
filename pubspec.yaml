@@ -1,6 +1,6 @@
 name: typeweight
 description: Library to help you to use more readable font weight definitions in Flutter.
-version: 2.0.1
+version: 2.0.2
 repository: https://github.com/frencojobs/typeweight
 
 environment:
